@@ -1,0 +1,15 @@
+{
+    "name": "zhaoshiguo/composer-111",
+    "autoload": {
+        "psr-4": {
+            "Zhaoshiguo\\Composer111\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "赵士国",
+            "email": "zhaoshiguo@leadingtechgroup.com"
+        }
+    ],
+    "require": {}
+}
