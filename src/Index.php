@@ -6,6 +6,6 @@ class Index
 {
     public function test()
     {
-        dd(123213123);
+        dd("山水很帅");
     }
 }
